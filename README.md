@@ -194,3 +194,6 @@ I want to make an application that can help me and my friends find badminton com
 
 ### 1313618022 (Yusriizal Piliyang)
 I want to make music player app
+
+### 1313618031 (Muhammad Izzat Ibrahim)
+I want to make an application that can show destination and what they can see in Kepulauan Seribu. 
